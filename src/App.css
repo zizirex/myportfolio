@@ -70,9 +70,7 @@
   }
   .bodyAbout{
     max-width: 1000px;
-    display: block;
-    text-align: center;
-    margin: 0;
+    
   }
   .aboutTitle{
     padding: 20px;
