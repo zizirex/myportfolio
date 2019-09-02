@@ -38,6 +38,9 @@
 .introTitle h1, .introTitle h2{
   font-size: 3.3rem;
 }
+.thumbnail{
+  max-width: 300px;
+}
 }
 
 @keyframes App-logo-spin {

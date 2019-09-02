@@ -19,12 +19,12 @@ class Works extends Component {
                 <div>
                     <h2>Healthgram</h2>
                     <p> This is a web application that help people on making safe trip by checking local disease and air quality.</p>
-                    <a href="healthgram.ca"><img src={healthgram} style={{border : "4px"}} /> </a> 
+                    <a href="https://healthgram.ca"><img src={healthgram} style={{border : "4px"}} className="thumbnail"/> </a> 
                 </div>
                 <div>
                     <h2>Food XDev</h2>
                     <p> This is my food and drink related blog.</p>
-                    <a href="foodxdev.com"> <img src={foodxdev} style={{border : "4px"}}/></a>
+                    <a href="https://foodxdev.com"> <img src={foodxdev} style={{border : "4px"}} className="thumbnail"/></a>
                 </div>
                 <div>
                     <h2>XChange</h2>
@@ -33,7 +33,7 @@ class Works extends Component {
                 <div>
                     <h2>HourTech</h2>
                     <p> This is a platform for people who have non-tech skill that need small tech related works done.</p>
-                    <a href="hourtech.ca"> <img src={hourtech} style={{border : "4px"}}/></a>
+                    <a href="https://hourtech.ca"> <img src={hourtech} style={{border : "4px"}} className="thumbnail"/></a>
                 </div>
                 </Container>
                 <Footer />
